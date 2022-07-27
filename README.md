@@ -4,6 +4,5 @@
 - 🐍 Python jr developer
 - 🌵 I'm currently working as a math instructor
 - 🐢 I'm trying to spend time learning TensorFlow and Scikit-learn... when I have time!
-- 🟢 Preferred pronouns: he/it
 ##
 
