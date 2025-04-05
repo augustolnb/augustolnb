@@ -1,8 +1,8 @@
 ### Hi
 
-- 🌴 AI enthusiast and electrical engineering [8/10] student from tropical lands
-- 🐍 Python backend developer
-- 🌵 I'm currently working as a math instructor
-- 🐢 Learning TensorFlow2.0 and some others libraries in Python.
+- 🌴 Um engenheiro eletricista das terras tropicais, entusiasta em IA e IOT;
+- 🐍 Desenvolvedor Python em projetos autônomos;
+- 🌵 Trabalhando como professor de matemática e física;
+- 🐢 Estudando sempre que possível .
 ##
 
